@@ -1,6 +1,6 @@
 ## Vercel Link
 
-[chakra-ui-projects.vercel.app]
+[pricing-ui](chakra-ui-projects.vercel.app)
 
 ```
 
