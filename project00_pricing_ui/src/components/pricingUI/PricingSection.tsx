@@ -18,7 +18,7 @@ export const ListItem = (props: StackProps) => {
   return (
     <HStack as="li" spacing={5} align="flex-start" {...rest}>
       <Icon as={CheckIcon} w="22px" h="22px" flexShrink={0} />
-      <Text>{children}</Text>
+      <Text textAlign="left">{children}</Text>
     </HStack>
   );
 };
