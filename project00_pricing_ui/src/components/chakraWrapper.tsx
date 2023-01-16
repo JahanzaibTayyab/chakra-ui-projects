@@ -1,5 +1,5 @@
 "use client";
-
+import "@fontsource/inter";
 import React from "react";
 import { ChakraProvider, ColorModeScript } from "@chakra-ui/react";
 import theme from "@/theme";
