@@ -1,3 +1,4 @@
+import DetailCard from "@/components/detailCard";
 export default function Home() {
-  return <main>Hello i am Chakar</main>;
+  return <DetailCard />;
 }
